@@ -46,7 +46,7 @@ Distribution analysis
 Visualization of key variables
 ![Visualization](visualization.png)
 8. Feature Engineering
-Derived metric: Salary per Training Hour
+Derived metric: Salary per Training Hour.
 9. Data Integration
 Merging datasets using a common identifier (Employee_ID)
 📊 Results & Insights
